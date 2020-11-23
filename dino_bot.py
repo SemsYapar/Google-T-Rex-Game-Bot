@@ -1,3 +1,4 @@
+#Code by Sems
 from pyautogui import keyDown, keyUp, click
 from PIL import ImageGrab, ImageOps
 from time import sleep
